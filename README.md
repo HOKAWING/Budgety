@@ -3,5 +3,5 @@
 
 <img src="/pic1.png" width="900px" />
 
-来自于网站教程的章节六
+素材来自于网站
 https://www.udemy.com/the-complete-javascript-course/learn/v4/content
