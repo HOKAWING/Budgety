@@ -4,7 +4,7 @@
 <img src="/pic1.png" width="900px" />
 
 app.js
-1. 回调函数
+1. 回调函数 <br/>
         var nodeListForEach = function(nodeList, callback) {
             /*回调好处：
                 这个公用方法，在多个程序遍历nodeList时，避免了多次写for循环。
