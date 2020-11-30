@@ -5,7 +5,7 @@
 
 app.js
 1. 回调函数 <br/>
-        var nodeListForEach = function(nodeList, callback) {
+        var nodeListForEach = function(nodeList, callback) {  <br/>
             /*回调好处：
                 这个公用方法，在多个程序遍历nodeList时，避免了多次写for循环。
              */
