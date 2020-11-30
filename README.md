@@ -27,7 +27,8 @@ app.js
             }
         });
 
-2. Event bubble up <br/>
+2. Event bubble up
+
         /*
             Event bubbling：The event is first fired on the button,but then it will also be fired on all the parent elements one at a time until the HTML element which is the               root.
 
@@ -45,7 +46,8 @@ app.js
          */
         document.querySelector(DOM.container).addEventListener('click', ctrlDeleteItem);
 
-3. Delete element <br/>
+3. Delete element
+
         //In JavaScript,we cannot simply delete an element,we can only delete a child.so this is a bit strange.
         el.parentNode.removeChild(el);
 
